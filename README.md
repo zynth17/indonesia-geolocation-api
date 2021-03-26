@@ -1,5 +1,3 @@
-# apiapi
-4u
 
 # Kode-Pos-API
 List Propinsi
